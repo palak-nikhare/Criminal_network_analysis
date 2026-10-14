@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix AI-Powered Criminal Network Analysis System",
+  "description": "Smart India Hackathon 2026 investigation-support intelligence platform for NCRB to analyze fragmented crime records and discover connected networks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
